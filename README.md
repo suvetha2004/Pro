@@ -1,0 +1,4 @@
+# AI BASED DIABETES PREDICTION SYSTEM![IMG-20231101-WA0008](https://github.com/suvetha2004/Pro/assets/147066605/d9b64325-3fbf-4381-b465-60fa7e40d472)
+In this project, our objective is to predict whether the patient has diabetes or not based on various features like Glucose level, Insulin, Age, BMI. We will perform all the steps from Data gathering to Model deployment. During Model evaluation, we compare various machine learning algorithms on the basis of accuracy_score metric and find the best one. Then we create a web app using Flask
+# screenshot Enter the dataset value and predict the diabetes![Screen shot 1](https://github.com/suvetha2004/Pro/assets/147066605/23c667a2-0cf6-4bc3-b1ce-d1bb3e51f22e)
+# screenshot 2 result![Screenshot3](https://github.com/suvetha2004/Pro/assets/147066605/1d12ef61-4c4c-413f-8cc7-d554434cd84a) ![Screen shot 2](https://github.com/suvetha2004/Pro/assets/147066605/5018160a-d929-4d21-a703-9d251c871c4b)
